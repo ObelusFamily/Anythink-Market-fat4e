@@ -17,6 +17,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 	- `docker -v` 
 	- `docker-compose -v`
 1. Then go inside the project Directory and run `docker-compose up` to load frontend and backend of the project
-1. You may check the if the backend is up and running by opening[TestCheck](http://localhost:3000/api/ping)on your browser 
+1. You may check the if the backend is up and running by opening [TestCheck](http://localhost:3000/api/ping) on your browser 
 1. Also go ahead and check if the [frontendCheck](http://localhost:3001/register)
 ### Finally your Setup is Completed!
